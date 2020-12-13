@@ -1,0 +1,27 @@
+B.00; B.01; B.02 | Intro; Euclid's Elements intro; Book I definitions
+B.03; B.04 | Conditional statements; Sketch I.1, I.2, I.3 on paper
+Quiz; B.05 | Intro to GeoGebra; Construct I.1, I.2, I.3 in GeoGebra
+B.06; B.07 | Construct I.9, I.10; Six parts of a proof; Illustrating QED proofs
+B.08; B.09 | Construct I.11, I.12; Proof tables; Logic techniques
+B.10; B.11 | Construct I.22, I.23; Congruent and similar triangles
+Quiz | Construct I.31, I.46
+B.13 | Angle-Related Propositions
+B.14; B.15 | Triangles' angles; Parallel lines
+B.16. Pythagorean Theorem
+B.17. Pythagorean Theorem Proof
+Midterm
+C.01; C.02 | Book II, Geometry as algebra
+C.03; C.04 | Algebra as geometry; Golden rectangle
+C.05; C.06; C.07; C.08 | Square a rectilinear figure
+D.01; D.02; D.03; D.04 | Book III & IV definitions, constructions, angles
+H.03, H.04, H.05. Circles and the Cartesian Coordinate Systems
+Quiz; E.01; E.02 | Books V-VI Ratios and Proportionality
+I.01; H.07 | Euclid and trigonometry, Measures of angles
+I.02; I.03 | Unit circle and trig functions
+I.04; I.05 | Solving triangles
+I.06 | Real-World trigonometry
+Quiz; F.01; F.02; F.03 | Number theory
+G.01; G.02; G.03 | Book XI-XIII 
+H.08; H.09; B.18 | Non-cartesian coordinates, Non-Euclidean geometries
+Final exam review
+Final Exam

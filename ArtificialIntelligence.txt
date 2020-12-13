@@ -1,0 +1,26 @@
+Course Introduction
+Python Review
+What is AI?
+The Machine Learning Landscape
+The Emergent Internet of Things
+Working with Real Data
+Privacy and Classification
+Training Models
+Information Security
+Pattern Classification
+Warfare and AI
+Decision Trees
+Machine Learning and National Security
+Training Models
+AI and Blockchain
+Dimensionality Reduction
+AI and Public Opinion
+TensorFlow 
+General AI
+Neural networks
+Society Impacts of AI
+Direct Search Algorithms
+Cognitive Spaces
+Computer Vision
+Natual Language Processing
+Project Reports

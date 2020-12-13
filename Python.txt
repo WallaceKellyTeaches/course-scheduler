@@ -1,0 +1,14 @@
+Run a given Python script on your machine.
+Write a simple script that uses the command line arguments and includes if/elif/else blocks.
+Author a Python function that accepts a string and returns a modified version of the string.
+Write a Python script that prints a list of strings.
+Write a Python script that sorts a list of tuples.
+Write a Python script that stores and retrieves values in a dictionary.
+Write Python scripts that read and write files
+Write a Python script using everything we have learned to this point.
+Modify a regular expression to extra data from a file
+Write a script that calls operating system commands
+Include "exception handling" in code to make it more robust
+Create a Python module
+Retrieve data over HTTP from a server
+Practice and review what we have learned
