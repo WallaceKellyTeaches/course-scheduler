@@ -1,5 +1,7 @@
-How to use this software.
+This is a script for managing course schedulers.
 
-1. Choose a side... either X's or O's.
-2. Click in a square.
-3. Good luck!
+Use it like this:
+
+```
+fsi course-scheduling.fsx
+```
